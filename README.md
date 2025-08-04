@@ -2,9 +2,9 @@
 
 This project is a simple React application that demonstrates the concept of **state** in React. It shows how to use the `useState` hook to toggle the "strike-through" effect on a todo item.
 
-<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/6c9a4d1a-276a-481d-9626-3ddeecc3bbcc" />
+<img width="1916" height="908" alt="image" src="https://github.com/user-attachments/assets/1a629c3b-faa4-44d6-bb87-c8ad0152ab9a" />
 
-<img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/f2dd8431-9ab7-45b2-b42a-565ee438de5c" />
+<img width="1913" height="909" alt="image" src="https://github.com/user-attachments/assets/2687ffda-94c5-4d1f-935b-f52b866261a0" />
 
 
 
