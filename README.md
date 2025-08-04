@@ -16,7 +16,6 @@ The app displays a todo item ("Buy milk") and two buttons:
 
 This helps illustrate how state changes can update the UI in a React application.
 
-```
 
 ## Getting Started
 
