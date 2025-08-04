@@ -13,7 +13,7 @@ function App() {
 
   return (
     <div>
-      <p style={isDone ? { textDecoration: "line-through" } : null}>Buy milk</p>
+      <h1 style={isDone ? { textDecoration: "line-through" } : null}>Buy milk</h1>
       <button onClick={strike}>Change to strike through</button>
       <button onClick={unStrike}>Change back</button>
     </div>
